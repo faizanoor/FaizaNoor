@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=faizanoor)
 
-- 🔭 I'm currently working 
-- I’m currently working on [Some projects of the core curriculum at the 42 Heilbronn](https://github.com/JonasGoetz01/42-pipex)
+- 🔭 I'm currently working as Software Development Team Lead @Accenture
 
 - 🚀 Have startup ideas? Want to collaborate? Send 👋 on discord()
 
 - 🌱 I’m currently learning **Blockchain and Dapps, C**
 
-- 💬 Ask me about **Web Development, Backend Development, Docker, K8s, Agile,**
+- 💬 Ask me about **Web Development, Docker, K8s, Cloud(GCP | AWS), Agile,**
 
 - 📫 How to reach me **faizanoor3001@gmail.com**
 
